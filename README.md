@@ -1,15 +1,16 @@
 ### Hi there 👋
+## About Me
+[🏠 Home Page](https://whyen-wang.github.io/) 🛠️(under construction)
 
+## Projects
+### [📖 Nonie](https://whyen-wang.github.io/Nonie/): 🛠️(under construction)
+A project for me to learn full-stack
 
-**whyen-wang/whyen-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning:
+  - back-end:
+    - Python Flask
+  - front-end
+    - Electron
+    - React
+    - React Native
+- ⚡ Fun fact: I don't major in computer science.
