@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I don't major in computer science.
 
 ## Projects
-- [📖 Nonie](https://whyen-wang.github.io/Nonie/): 🛠️(under construction) A project for me to learn full-stack
+- [📖 Nonie](https://whyen-wang.github.io/Nonie/): 🛠️(under construction) A project for me to learn full-stack.
