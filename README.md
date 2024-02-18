@@ -1,5 +1,5 @@
+# [🏠 Home](https://whyen-wang.github.io/) 🛠️(under construction)
 ## About Me
-[🏠 Home](https://whyen-wang.github.io/) 🛠️(under construction)
 - 🌱 I’m currently learning:
   - 🗄️ back-end: Flask
   - ⚛️ front-end: Electron, React, React Native
