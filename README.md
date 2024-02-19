@@ -1,4 +1,6 @@
 # [🏠 Home](https://whyen-wang.github.io/) 🛠️(under construction)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=whyen-wang)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=whyen-wang)](https://git.io/streak-stats)
 ## About Me
 - 🌱 I’m currently learning:
   - 🗄️ back-end: Flask
