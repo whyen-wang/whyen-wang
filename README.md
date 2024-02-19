@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning:
   - 🗄️ back-end: Flask
   - ⚛️ front-end: Electron, React, React Native
-- ⚡ Fun fact: I don't major in computer science.
+- ⚡ Fun fact: I am not a computer science major.
 
 ## Projects
 - [📖 Nonie](https://whyen-wang.github.io/Nonie/): 🛠️(under construction) A project for me to learn full-stack.
