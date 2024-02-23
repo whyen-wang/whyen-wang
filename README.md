@@ -7,8 +7,8 @@
 
 ## About Me
 - 🌱 I’m currently learning:
-  - 🗄️ back-end: Flask
   - ⚛️ front-end: Electron, React, React Native
+  - 🗄️ back-end: Flask
 - ⚡ Fun fact: I am not a computer science major.
 
 ## Projects
