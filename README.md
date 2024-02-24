@@ -1,4 +1,4 @@
-# [🏠 Home](https://whyen-wang.github.io/) 🛠️(under construction)
+# [🏠 Home](https://whyen-wang.github.io/)
 
 <p align="center">
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=whyen-wang&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
