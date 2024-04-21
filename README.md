@@ -6,10 +6,16 @@
 </p>
 
 ## About Me
-- 🌱 I’m currently learning:
+- 🧠 I’m currently learning:
   - ⚛️ front-end: Electron, React, React Native
-  - 🗄️ back-end: Flask
+  - 🔙 back-end: Flask
+  - 🗄️ deployment: Kubernetes
+- ❤️ My life:
+  - 🌱 gardening: Succulents
+  - ⛰️ hiking: Taiwan 100 peaks challenge (0/100)
 - ⚡ Fun fact: I am not a computer science major.
 
 ## Projects
 - [📖 Nonie](https://whyen-wang.github.io/Nonie/): A project for me to learn full-stack.
+## My Life
+- [Succulents](https://whyen-wang.github.io/life-my-succulents/)
