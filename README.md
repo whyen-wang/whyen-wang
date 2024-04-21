@@ -18,4 +18,4 @@
 ## Projects
 - [📖 Nonie](https://whyen-wang.github.io/Nonie/): A project for me to learn full-stack.
 ## My Life
-- [Succulents](https://whyen-wang.github.io/life-my-succulents/)
+- [🌵 Succulents](https://whyen-wang.github.io/life-my-succulents/)
